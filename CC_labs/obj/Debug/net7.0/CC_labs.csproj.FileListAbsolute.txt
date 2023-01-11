@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\CC_labs\CC_labs\bin\Debug\net7.0\CC_labs.exe
+C:\Users\User\RiderProjects\CC_labs\CC_labs\bin\Debug\net7.0\CC_labs.deps.json
+C:\Users\User\RiderProjects\CC_labs\CC_labs\bin\Debug\net7.0\CC_labs.runtimeconfig.json
+C:\Users\User\RiderProjects\CC_labs\CC_labs\bin\Debug\net7.0\CC_labs.dll
+C:\Users\User\RiderProjects\CC_labs\CC_labs\bin\Debug\net7.0\CC_labs.pdb
+C:\Users\User\RiderProjects\CC_labs\CC_labs\obj\Debug\net7.0\CC_labs.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\CC_labs\CC_labs\obj\Debug\net7.0\CC_labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\CC_labs\CC_labs\obj\Debug\net7.0\CC_labs.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\CC_labs\CC_labs\obj\Debug\net7.0\CC_labs.AssemblyInfo.cs
+C:\Users\User\RiderProjects\CC_labs\CC_labs\obj\Debug\net7.0\CC_labs.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\CC_labs\CC_labs\obj\Debug\net7.0\CC_labs.dll
+C:\Users\User\RiderProjects\CC_labs\CC_labs\obj\Debug\net7.0\refint\CC_labs.dll
+C:\Users\User\RiderProjects\CC_labs\CC_labs\obj\Debug\net7.0\CC_labs.pdb
+C:\Users\User\RiderProjects\CC_labs\CC_labs\obj\Debug\net7.0\CC_labs.genruntimeconfig.cache
+C:\Users\User\RiderProjects\CC_labs\CC_labs\obj\Debug\net7.0\ref\CC_labs.dll
